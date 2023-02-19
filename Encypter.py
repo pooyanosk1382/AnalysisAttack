@@ -33,7 +33,7 @@ contents = contents.replace('y', 'V')
 contents = contents.replace('z', 'M')
 
 
-write = open('write.txt', 'w')
+write = open('cipherText.txt', 'w')
 for i in contents:
     if i == 'A' or i == 'B' or i == 'C' or i == 'D' or i == 'E' or i == 'F' or i == 'G' or i == 'H' or i == 'I' or \
         i == 'J' or i == 'K' or i == 'L' or i == 'M' or i == 'N' or i == 'O' or i == 'P' or i == 'Q' or i == 'R' or \
