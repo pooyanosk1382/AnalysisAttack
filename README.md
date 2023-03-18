@@ -13,3 +13,6 @@ Encrypt the text and give us a cipher text.
 
 # CounterOfBooks
 In this file we count the letters and combination by __PyPDF2__ and plot some giagrams to show the percentage and relation of letters and combinations.
+
+# CounterOfCipherText
+Do the same as above on cipher text but the point is that we don't know what combinations we should count so we count all of combinations.
