@@ -8,5 +8,5 @@ Then we do same on cipher text and count letters and all combinations of the cip
 
 # Summary of files
 
-  # CounterOfBooks
-  In this file we count the letters and combination by __PyPDF2__ and plot some giagrams to show the percentage and relation of letters and combinations.
+    # CounterOfBooks
+    In this file we count the letters and combination by __PyPDF2__ and plot some giagrams to show the percentage and relation of letters and combinations.
