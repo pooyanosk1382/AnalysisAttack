@@ -16,3 +16,6 @@ In this file we count the letters and combination by __PyPDF2__ and plot some gi
 
 ### CounterOfCipherText
 Do the same as above on cipher text but the point is that we don't know what combinations we should count so we count all of combinations.
+
+### Decrypt
+By analisys the cipher text and compare with analisys of books attempt to decrypt the cipher text and exchange the letters by a function.
